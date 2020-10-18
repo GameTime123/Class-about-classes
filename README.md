@@ -1,2 +1,1 @@
-# Class-about-classes
- x\ksueynoviauwynr
+# Box Class
